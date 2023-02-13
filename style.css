@@ -2,7 +2,7 @@
 
 :root{
     --red:#ff5a3c;
-    --acquamarine:#7fffd4;
+    --light-red:#ffcccb;
 }
 *{
     font-family: 'Nunito', sans-serif;
@@ -19,7 +19,7 @@ html{
     scroll-padding-top: 7rem;
 }
 body{
-    background:#e0ffff;
+    background:#f7f7f7;
 }
 section{
     padding:2rem 9%;
